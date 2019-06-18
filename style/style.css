@@ -1,0 +1,59 @@
+.logo {
+    float: left;
+    position: absolute;
+    width: 200px;
+    height: 130px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 90px;
+}
+
+.logo img {
+    height: 180px;
+}
+
+.fadeInDown {
+    animation-name: fadeInDown;
+    -webkit-animation-name: fadeInDown;
+}
+
+.flipInX {
+    animation-name: flipInX;
+    -webkit-animation-name: flipInX;
+}
+
+.slideInUp {
+    animation-name: slideInUp;
+    -webkit-animation-name: slideInUp;
+}
+
+.logoli {
+    margin-top: -30px;
+}
+
+
+.bg-light {
+    background-color: black!important;
+}
+
+.nav-link {
+    color: white!important;
+    font-family: fa5-proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.navbar {
+    z-index: 1;
+}
+
+.page-title {
+    margin-top: 40px;
+    font-family: fa5-proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
